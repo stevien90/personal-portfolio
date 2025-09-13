@@ -1,0 +1,26 @@
+.navBox {
+  display: flex;
+  align-items: center;
+  color: #d8c4b6;
+  background-color: #e8e0d6;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  margin-top: -1rem;
+  gap: 10px;
+}
+
+.navBox.active {
+  color: #3e5879;
+  font-weight: bold;
+}
+
+.navBox:hover {
+  background-color: #ddd3c8;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.navBox.active {
+  background-color: #d1c6ba;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.2);
+}

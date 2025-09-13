@@ -1,0 +1,162 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  background-color: #f5efe7;
+  overflow: hidden;
+  line-height: 1.3;
+}
+
+.App {
+  height: 100vh;
+  overflow: hidden;
+}
+
+p {
+  color: #2a2a2a;
+  font-size: 0.875rem;
+}
+
+a {
+  color: #3e5879;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d8c4b6;
+  text-decoration: underline;
+}
+.scrollContainer {
+  height: 100%;
+  overflow-y: auto;
+  padding: 0 20rem;
+}
+
+.main {
+  display: flex;
+  flex-wrap: nowrap;
+  height: auto;
+  gap: 2rem;
+  width: 100%;
+}
+
+.leftSide {
+  position: fixed;
+  top: 0;
+  height: 100vh;
+  display: flex;
+  width: 25rem;
+  flex-direction: column;
+  padding: 6rem 0;
+  gap: 30px;
+}
+
+.rightSide {
+  margin-left: 550px;
+  flex: 1;
+  padding: 6rem 0;
+  min-width: 400px;
+  text-align: left;
+}
+
+.name {
+  font-size: 3rem;
+  line-height: 1;
+  color: #213555;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+.title {
+  font-size: 1.25rem;
+  color: #3e5879;
+  margin: 0;
+}
+
+.HRicon {
+  height: 1.5rem;
+  width: 1.5rem;
+}
+
+.socialIconBox {
+  display: flex;
+  color: #3e5879;
+  margin-top: 10rem;
+  gap: 1rem;
+}
+
+.about-me {
+  font-size: 1rem;
+  font-weight: normal;
+  color: #2a2a2a;
+}
+#projects {
+  margin-top: 10rem;
+}
+#experience {
+  margin-top: -20rem;
+}
+
+@media (max-width: 1024px) {
+  .main {
+    flex-direction: column;
+  }
+
+  .leftSide {
+    position: static;
+    width: 100%;
+    height: auto;
+    padding: 2rem 0;
+  }
+
+  .rightSide {
+    margin-left: 0;
+    width: 100%;
+    padding: 2rem 0;
+    padding-right: 1rem;
+  }
+
+  .scrollContainer {
+    padding: 0 1rem;
+  }
+
+  html,
+  body,
+  #root {
+    overflow: auto;
+  }
+}
+
+@media (max-width: 1440px) {
+  .scrollContainer {
+    padding: 0 2.5rem;
+  }
+}
+
+@media (max-width: 1280px) {
+  .scrollContainer {
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 1024px) {
+  .scrollContainer {
+    padding: 0 1.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .scrollContainer {
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .scrollContainer {
+    padding: 0 0.5rem;
+  }
+}
