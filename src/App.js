@@ -207,7 +207,7 @@ export default function App() {
               id="about"
               ref={aboutRef}
               sx={{
-                minHeight: "100vh",
+                minHeight: "50vh",
                 scrollMarginTop: "80px",
               }}
             >
@@ -251,7 +251,7 @@ export default function App() {
               id="experience"
               ref={experienceRef}
               sx={{
-                minHeight: "100vh",
+                minHeight: "50vh",
                 scrollMarginTop: "80px",
               }}
             >
@@ -263,7 +263,7 @@ export default function App() {
               id="projects"
               ref={projectsRef}
               sx={{
-                minHeight: "100vh",
+                minHeight: "50vh",
                 scrollMarginTop: "80px",
               }}
             >

@@ -94,11 +94,9 @@ a:hover {
   font-weight: normal;
   color: #2a2a2a;
 }
+
 #projects {
   margin-top: 10rem;
-}
-#experience {
-  margin-top: -20rem;
 }
 
 @media (max-width: 1024px) {
@@ -128,6 +126,12 @@ a:hover {
   body,
   #root {
     overflow: auto;
+  }
+}
+
+@media (max-width: 2000px) {
+  .scrollContainer {
+    padding: 0 2.5rem;
   }
 }
 
