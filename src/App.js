@@ -149,7 +149,7 @@ export default function App() {
               }}
             >
               <a
-                href="/Assets/Resume2025.pdf"
+                href="/Assets/resume2025standard.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{ textDecoration: "none", color: "inherit" }}
@@ -213,37 +213,36 @@ export default function App() {
             >
               <h1>ABOUT ME</h1>
               <p className="about-me">
-                I’m a full-stack JavaScript developer with a strong focus on
-                building scalable web applications—from intuitive front-end
-                interfaces to robust back-end services. While JavaScript is my
-                core language, I also have hands-on experience with Python,
-                Java, and PHP, allowing me to adapt to a variety of tech stacks
-                based on project or team needs. I'm always learning and
-                expanding my skill set.
+                I’m a versatile full-stack developer with hands-on experience
+                building both web and desktop applications. While I’ve worked
+                with several languages including JavaScript, Java, Python, and
+                PHP, I’m currently focused on Python for backend development and
+                React for frontend. This diverse skill set allows me to adapt
+                quickly to different technologies and project requirements.
                 <br />
                 <br />
-                I’m currently enhancing my Python expertise through algorithmic
-                problem solving on HackerRank (selected solutions will be shared
-                here soon). In parallel, I’m developing an API-driven web
-                application focused on data extraction and analysis. The project
-                leverages Python and Plotly for interactive data visualization,
-                with the goal of uncovering patterns, trends, and actionable
-                insights.
+                Right now, I’m using my time to sharpen my Python skills through
+                data structures and algorithms challenges on LeetCode, while
+                also building practical projects that solve real-world problems
+                for my community, friends, and family. These projects reflect my
+                passion for creating tools that are both fun and useful.
                 <br />
                 <br />
-                Outside of coding, I’m a lifelong gamer whose passion for games
-                naturally evolved into a love for programming. I enjoy board
-                game nights with friends, and I’m currently hooked on
-                Hearthstone Battlegrounds. One of my favorite hobbies has always
-                been playing flag football. Unfortunately, due to a knee issue,
-                I’m no longer able to play—but the competitive spirit and team
-                mindset I gained from it still carry through in my work and
-                collaborations.
+                Beyond coding, I’m a dedicated gamer and strategic thinker,
+                qualities that have sharpened my problem-solving and
+                persistence—skills I bring into every development challenge. I
+                also enjoy board game nights, playing Hearthstone Battlegrounds,
+                and flag football, as well as exploring new food spots,
+                especially buffets.
                 <br />
                 <br />
-                At the core of everything I do, my goal is simple: to achieve
-                self-happiness and then spread happiness to others through
-                meaningful work, shared experiences, and continuous growth.
+                I’m excited to bring my technical skills, adaptability, and
+                growth mindset to a variety of roles—not just traditional
+                software engineering positions but any opportunity where I can
+                contribute meaningfully and continue learning. At the core of
+                everything I do is a simple goal: to find happiness through
+                personal growth and to spread that happiness to others through
+                meaningful work and shared experiences.
               </p>
             </Box>
 
