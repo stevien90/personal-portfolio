@@ -109,7 +109,9 @@ export default function App() {
               }}
             >
               <h1 className="name">Steven Nguyen</h1>
-              <h2 className="title">Full Stack Developer</h2>
+              <h2 className="title">
+                Software Engineer (Full Stack & Data Enthusiast)
+              </h2>
               <p>
                 I develop end-to-end applications, covering frontend interfaces,
                 backend APIs, and database systems.
@@ -213,7 +215,7 @@ export default function App() {
             >
               <h1>ABOUT ME</h1>
               <p className="about-me">
-                I’m a versatile full-stack developer with hands-on experience
+                I’m a versatile software engineer with hands-on experience
                 building both web and desktop applications. While I’ve worked
                 with several languages including JavaScript, Java, Python, and
                 PHP, I’m currently focused on Python for backend development and
