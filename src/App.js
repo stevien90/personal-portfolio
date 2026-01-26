@@ -223,11 +223,11 @@ export default function App() {
                 quickly to different technologies and project requirements.
                 <br />
                 <br />
-                Right now, I’m using my time to sharpen my Python skills through
-                data structures and algorithms challenges on LeetCode, while
-                also building practical projects that solve real-world problems
-                for my community, friends, and family. These projects reflect my
-                passion for creating tools that are both fun and useful.
+                Right now, I’m using my time to develop AI skills—starting with
+                machine learning and deep learning—while building practical
+                projects that solve real-world problems for my community,
+                friends, and family. These projects reflect my passion for
+                creating tools that are both fun and useful.
                 <br />
                 <br />
                 Beyond coding, I’m a dedicated gamer and strategic thinker,
