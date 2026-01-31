@@ -79,7 +79,7 @@ export default function App() {
       {
         root: scrollContainerRef.current,
         threshold: [0.4, 0.6, 0.8],
-      }
+      },
     );
 
     sections.forEach(({ ref }) => {
@@ -215,19 +215,20 @@ export default function App() {
             >
               <h1>ABOUT ME</h1>
               <p className="about-me">
-                I’m a versatile software engineer with hands-on experience
+                I’m a versatile Full Stack Developer with hands-on experience
                 building both web and desktop applications. While I’ve worked
                 with several languages including JavaScript, Java, Python, and
-                PHP, I’m currently focused on Python for backend development and
-                React for frontend. This diverse skill set allows me to adapt
-                quickly to different technologies and project requirements.
+                PHP. This diverse skill set allows me to adapt quickly to
+                different technologies and project requirements.
                 <br />
                 <br />
-                Right now, I’m using my time to develop AI skills—starting with
-                machine learning and deep learning—while building practical
-                projects that solve real-world problems for my community,
-                friends, and family. These projects reflect my passion for
-                creating tools that are both fun and useful.
+                I’m currently focused on building practical AI skills, starting
+                with machine learning and deep learning, and expanding into
+                areas such as large language models (LLMs) and voice-based
+                learning. Alongside my studies, I create real-world projects
+                designed to solve everyday problems for my community, friends,
+                and family. These projects reflect my passion for building tools
+                that are both engaging and genuinely useful.
                 <br />
                 <br />
                 Beyond coding, I’m a dedicated gamer and strategic thinker,
@@ -239,12 +240,11 @@ export default function App() {
                 <br />
                 <br />
                 I’m excited to bring my technical skills, adaptability, and
-                growth mindset to a variety of roles—not just traditional
-                software engineering positions but any opportunity where I can
-                contribute meaningfully and continue learning. At the core of
-                everything I do is a simple goal: to find happiness through
-                personal growth and to spread that happiness to others through
-                meaningful work and shared experiences.
+                growth mindset to opportunities where I can contribute
+                meaningfully and continuing to learn. At the core of everything
+                I do is a simple goal: to find happiness through personal growth
+                and to spread that happiness to others through meaningful work
+                and shared experiences.
               </p>
             </Box>
 
