@@ -224,11 +224,12 @@ export default function App() {
                 <br />
                 I’m currently focused on building practical AI skills, starting
                 with machine learning and deep learning, and expanding into
-                areas such as large language models (LLMs) and voice-based
-                learning. Alongside my studies, I create real-world projects
-                designed to solve everyday problems for my community, friends,
-                and family. These projects reflect my passion for building tools
-                that are both engaging and genuinely useful.
+                areas such as large language models (LLMs), AI agents, and other
+                emerging AI technologies. Alongside my studies, I create
+                real-world projects designed to solve everyday problems for my
+                community, friends, and family. These projects reflect my
+                passion for building tools that are both engaging and genuinely
+                useful.
                 <br />
                 <br />
                 Beyond coding, I’m a dedicated gamer and strategic thinker,
